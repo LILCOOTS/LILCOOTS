@@ -41,8 +41,7 @@ class Om:
 
 **Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp&theme=dark" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm" />
+<img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" />
 
 
 **AI / ML / Computer Vision**
@@ -56,7 +55,6 @@ class Om:
 **Data & Infra**
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,sqlite,pinecone,redis,firebase,docker,aws,git,mlflow&theme=dark" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 
 <br>
 
