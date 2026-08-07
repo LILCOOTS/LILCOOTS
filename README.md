@@ -143,7 +143,11 @@ End-to-end ML pipeline for network threat detection, from raw traffic features t
   https://github.com/Platane/snk
 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/LILCOOTS/LILCOOTS/output/github-contribution-grid-snake.svg" width="90%" alt="snake animation (activate via Platane/snk action)"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LILCOOTS/LILCOOTS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LILCOOTS/LILCOOTS/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/LILCOOTS/LILCOOTS/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</picture>
 </div>
 
 <br>
